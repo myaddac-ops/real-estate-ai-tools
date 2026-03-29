@@ -1,0 +1,76 @@
+=== REAL ESTATE AI PROMPT TEMPLATES ===
+Built by 10th Dimension | Real Estate AI Automation Project
+
+---
+
+[1] PROPERTY LISTING DESCRIPTION
+---------------------------------
+Prompt:
+You are a professional real estate copywriter in India. Write a compelling 150-200 word property listing description for the following:
+
+Property Type: [3BHK / 2BHK / Villa / Plot]
+Location: [Area, City]
+Area: [sq ft]
+Price: [INR]
+Key Features: [list features]
+Nearby: [schools, hospitals, IT parks]
+
+Make it persuasive, highlight lifestyle benefits, and end with a call to action.
+
+---
+
+[2] CLIENT FOLLOW-UP EMAIL
+--------------------------
+Prompt:
+Write a professional follow-up email to a property buyer named [Client Name] who visited [Property Name] on [Date].
+The email should thank them, highlight 2-3 benefits of the property, and include a soft call-to-action.
+Keep it under 150 words. Tone: warm and professional.
+
+---
+
+[3] WHATSAPP FOLLOW-UP MESSAGE
+-------------------------------
+Prompt:
+Write a short WhatsApp follow-up message (max 60 words) for a real estate agent to send to a client after a site visit.
+Property: [Property Name]
+Client Name: [Name]
+Make it friendly, non-pushy, and include one question to keep the conversation going.
+
+---
+
+[4] PROPERTY PRICING ANALYSIS
+------------------------------
+Prompt:
+Analyze the fair market value of a property with these details:
+Location: [Area, City]
+Type: [Apartment/Villa/Plot]
+Area: [sq ft]
+Year Built: [Year]
+Nearby landmarks: [list]
+Compare with current market trends in that area and suggest a price range in INR.
+
+---
+
+[5] MARKETING SOCIAL MEDIA POST
+--------------------------------
+Prompt:
+Create an engaging Instagram/Facebook post for a real estate listing:
+Property: [Type + Location]
+Highlights: [2-3 key features]
+Price: [INR]
+Contact: [Phone/Website]
+Use emojis, keep it under 100 words, and add 5 relevant hashtags.
+
+---
+
+[6] PROPERTY INQUIRY CHATBOT REPLY
+-----------------------------------
+Prompt:
+You are a real estate assistant chatbot. Reply to this customer inquiry:
+"[Customer Message]"
+Provide helpful information about the property, answer their question, and invite them to book a site visit.
+Keep the reply under 100 words and friendly.
+
+---
+
+END OF TEMPLATES
